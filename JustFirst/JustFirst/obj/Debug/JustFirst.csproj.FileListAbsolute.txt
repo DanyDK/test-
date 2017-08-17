@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2017\Projects\JustFirst\JustFirst\bin\Debug\JustFirst.exe.config
+c:\users\admin\documents\visual studio 2017\Projects\JustFirst\JustFirst\bin\Debug\JustFirst.exe
+c:\users\admin\documents\visual studio 2017\Projects\JustFirst\JustFirst\bin\Debug\JustFirst.pdb
+c:\users\admin\documents\visual studio 2017\Projects\JustFirst\JustFirst\obj\Debug\JustFirst.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2017\Projects\JustFirst\JustFirst\obj\Debug\JustFirst.exe
+c:\users\admin\documents\visual studio 2017\Projects\JustFirst\JustFirst\obj\Debug\JustFirst.pdb
